@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean up Virtual Environment in Azure
 
 <h2>Installation Steps</h2>
-
+ Click here for the resources for the installation: [Resources](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 <p>
 <img src="https://i.imgur.com/kMp0jCz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -89,5 +89,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 "After you paste the Public IP address, you're going to click on 'Show Options'. Once you've clicked on 'Options', you will need to enter your username and then click 'Connect'.""
 </p>
+ <p>
+<img src="https://i.imgur.com/oAqFSmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Once you enter your password and you're on the home screen, follow these steps:
 
+    Go to your Windows key and right-click the menu.
+    Click on 'Run' and then type in 'Control Panel'.
+    Click on 'Programs' and then select 'Turn Windows features on or off'.
+    Click the box next to 'Internet Information Services' and then click the '+' sign."
+</p>
+<p>
+<img src="https://i.imgur.com/LKVRfy5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ "Then, click on 'CGI' and then click 'Done'."
+</p>
+<p>
+<img src="https://i.imgur.com/xv0UCWw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3MEpKzg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ "Then, click on 'CGI' and then click 'stop Done'."
+</p>
+<p>
+<img src="https://i.imgur.com/407QGem.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ "Then, click on 'CGI' and then click 'Done'."
+</p>
+<p>
+<img src="https://i.imgur.com/LKVRfy5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ "Then, click on 'CGI' and then click 'Done'."
+</p>
 <br />
