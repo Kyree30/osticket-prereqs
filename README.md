@@ -156,7 +156,49 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 "Make sure you have a virtual network and a public IP address."
 </p>
 <p>
-<img src="https://i.imgur.com/B0iCDp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jApHk9v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/pu9FDqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/rD8SnEM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/peWFYty.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/ASa0zcX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/oXrTSVr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/HroVNxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"Make sure you have a virtual network and a public IP address."
+</p>
+<p>
+<img src="https://i.imgur.com/HroVNxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 "Make sure you have a virtual network and a public IP address."
