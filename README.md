@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean up Virtual Environment in Azure
 
 <h2>Installation Steps</h2>
- Click here for the resources for the installation: [Resources](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+[Your installation Link Resources](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 <p>
 <img src="https://i.imgur.com/kMp0jCz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
