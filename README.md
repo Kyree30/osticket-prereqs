@@ -178,9 +178,9 @@ On the right, click “Browse *:80”
 </p>
 <p>
 Rename: ost-config.php
-From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+1.From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+2.To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <p>
 <img src="https://i.imgur.com/peWFYty.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -203,19 +203,19 @@ Continue Setting up osTicket in the browser (click Continue)
 <img src="https://i.imgur.com/2aKSUdB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> Download HeidiSQL. ( Follow These Steps)
- Open Heidi SQL
-Create a new session, root/Password1
-Connect to the session
-Create a database called “osTicket
+ 1.Open Heidi SQL
+2.Create a new session, root/Password1
+3.Connect to the session
+4.Create a database called “osTicket
 </p>
 <p>
 <img src="https://i.imgur.com/PqR9ddq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue Setting up osticket in the browser
-MySQL Database: osTicket
-MySQL Username: root
-MySQL Password: Password1
+MySQL Database: osTicket,
+MySQL Username: root,
+MySQL Password: Password1,
 Click “Install Now!”
 </p>
 <p>
