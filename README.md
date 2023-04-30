@@ -179,6 +179,7 @@ On the right, click “Browse *:80”
 <p>
 Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <p>
@@ -192,36 +193,36 @@ Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 </p>
 <p>
-"Make sure you have a virtual network and a public IP address."
-</p>
-<p>
 <img src="https://i.imgur.com/HroVNxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Make sure you have a virtual network and a public IP address."
+Continue Setting up osTicket in the browser (click Continue)
 </p>
 <p>
 <img src="https://i.imgur.com/qjeEhvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-"Make sure you have a virtual network and a public IP address."
-</p>
-<p>
 <img src="https://i.imgur.com/2aKSUdB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-"Make sure you have a virtual network and a public IP address."
+<p> Download HeidiSQL. ( Follow These Steps)
+ Open Heidi SQL
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket
 </p>
 <p>
 <img src="https://i.imgur.com/PqR9ddq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Make sure you have a virtual network and a public IP address."
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
 </p>
 <p>
-<img src="https://i.imgur.com/PqR9ddq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zgigjvd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Make sure you have a virtual network and a public IP address."
+hopefully it is installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <br />
